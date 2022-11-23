@@ -7,9 +7,9 @@ https://github.com/csacca/uhoo-homeassistant
 import asyncio
 from typing import Dict, List
 
-from pyuhoods import Client
-from pyuhoods.device import Device
-from pyuhoods.errors import UhooError, UnauthorizedError
+from pyuhoo import Client
+from pyuhoo.device import Device
+from pyuhoo.errors import UhooError, UnauthorizedError
 
 from homeassistant.config_entries import ConfigEntry
 from homeassistant.const import CONF_PASSWORD, CONF_USERNAME
