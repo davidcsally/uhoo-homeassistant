@@ -903,8 +903,8 @@ optional = false
 python-versions = "*"
 
 [[package]]
-name = "pyuhoo"
-version = "0.0.5"
+name = "pyuhoods"
+version = "0.0.6"
 description = "Python API for talking to uHoo consumer API"
 category = "main"
 optional = false
@@ -1891,9 +1891,9 @@ pytz = [
     {file = "pytz-2021.1-py2.py3-none-any.whl", hash = "sha256:eb10ce3e7736052ed3623d49975ce333bcd712c7bb19a58b9e2089d4057d0798"},
     {file = "pytz-2021.1.tar.gz", hash = "sha256:83a4a90894bf38e243cf052c8b58f381bfe9a7a483f6a9cab140bc7f702ac4da"},
 ]
-pyuhoo = [
-    {file = "pyuhoo-0.0.5-py3-none-any.whl", hash = "sha256:3f6521b70cd64421b6e03f16498851be23f708d5eddcc7de60e448a2b5420680"},
-    {file = "pyuhoo-0.0.5.tar.gz", hash = "sha256:723a4b73af4f6f6d891f824be4373565b5064182bb099bec4c6ddd33b2622cde"},
+pyuhoods = [
+    {file = "pyuhoods-0.0.6-py3-none-any.whl", hash = "sha256:2fb5e87c7b5527c04650f507b0f8f0f4faad50a03b26944aeadffaf177598f6c"},
+    {file = "pyuhoods-0.0.6.tar.gz", hash = "sha256:608ef9ad4589ac3901ecb60108d3a9914c74af5f33ed8e8631c48b7765834d96"},
 ]
 pyyaml = [
     {file = "PyYAML-5.4.1-cp27-cp27m-macosx_10_9_x86_64.whl", hash = "sha256:3b2b1824fe7112845700f815ff6a489360226a5609b96ec2190a45e62a9fc922"},
