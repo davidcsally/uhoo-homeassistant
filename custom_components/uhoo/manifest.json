@@ -7,5 +7,5 @@
   "version": "0.0.4",
   "config_flow": true,
   "codeowners": ["@csacca"],
-  "requirements": ["pyuhoods==0.0.6"]
+  "requirements": ["pyuhoods==0.0.7"]
 }
