@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "uhoo-homeassistant"
-version = "0.0.17"
+version = "0.0.18"
 description = "uHoo integration for Home Assistant"
 authors = ["David <davidcsally@davidcsally.net>"]
 repository = "https://github.com/davidcsally/uhoo-homeassistant"
@@ -9,7 +9,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.8"
-pyuhoods = "^0.0.17"
+pyuhoods = "^0.0.18"
 
 [tool.poetry.dev-dependencies]
 homeassistant = "^2021.8.0b0"
