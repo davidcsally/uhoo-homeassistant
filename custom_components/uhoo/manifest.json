@@ -4,8 +4,8 @@
   "documentation": "https://github.com/davidcsally/uhoo-homeassistant",
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/davidcsally/uhoo-homeassistant/issues",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "config_flow": true,
   "codeowners": ["@davidcsally"],
-  "requirements": ["pyuhoods==0.0.20"]
+  "requirements": ["pyuhoods==0.0.21"]
 }
